@@ -1,0 +1,9 @@
+8
+Kelias1; 100; 50;
+Kelias2; 200; 100;
+Kelias3; 150; 70;
+Kelias4; 200; 150;
+Kelias5; 350; 200;
+Kelias6; 50; 50;
+Kelias7; 175; 100;
+Kelias8; 180; 210;

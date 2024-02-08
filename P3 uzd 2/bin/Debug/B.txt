@@ -1,0 +1,4 @@
+Barbora
+Doleris; 15; 50; 0,85;
+Zlotai ; 40; 40; 0,22;
+Dinarai; 50; 25; 3,06;

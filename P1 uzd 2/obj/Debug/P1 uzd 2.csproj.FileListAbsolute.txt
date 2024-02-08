@@ -1,0 +1,8 @@
+C:\Users\Emosiukas\OneDrive - Kaunas University of Technology\Dokumentai\OPP 1\Savarankiški darbai\P1 uzd 2\bin\Debug\P1 uzd 2.exe.config
+C:\Users\Emosiukas\OneDrive - Kaunas University of Technology\Dokumentai\OPP 1\Savarankiški darbai\P1 uzd 2\bin\Debug\P1 uzd 2.exe
+C:\Users\Emosiukas\OneDrive - Kaunas University of Technology\Dokumentai\OPP 1\Savarankiški darbai\P1 uzd 2\bin\Debug\P1 uzd 2.pdb
+C:\Users\Emosiukas\OneDrive - Kaunas University of Technology\Dokumentai\OPP 1\Savarankiški darbai\P1 uzd 2\obj\Debug\P1 uzd 2.csproj.AssemblyReference.cache
+C:\Users\Emosiukas\OneDrive - Kaunas University of Technology\Dokumentai\OPP 1\Savarankiški darbai\P1 uzd 2\obj\Debug\P1 uzd 2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emosiukas\OneDrive - Kaunas University of Technology\Dokumentai\OPP 1\Savarankiški darbai\P1 uzd 2\obj\Debug\P1 uzd 2.csproj.CoreCompileInputs.cache
+C:\Users\Emosiukas\OneDrive - Kaunas University of Technology\Dokumentai\OPP 1\Savarankiški darbai\P1 uzd 2\obj\Debug\P1 uzd 2.exe
+C:\Users\Emosiukas\OneDrive - Kaunas University of Technology\Dokumentai\OPP 1\Savarankiški darbai\P1 uzd 2\obj\Debug\P1 uzd 2.pdb

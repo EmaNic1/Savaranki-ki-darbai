@@ -1,0 +1,8 @@
+C:\Users\Emosiukas\OneDrive - Kaunas University of Technology\Dokumentai\OPP 1\Savarankiški darbai\Savarankiskos\bin\Debug\Savarankiskos.exe.config
+C:\Users\Emosiukas\OneDrive - Kaunas University of Technology\Dokumentai\OPP 1\Savarankiški darbai\Savarankiskos\bin\Debug\Savarankiskos.exe
+C:\Users\Emosiukas\OneDrive - Kaunas University of Technology\Dokumentai\OPP 1\Savarankiški darbai\Savarankiskos\bin\Debug\Savarankiskos.pdb
+C:\Users\Emosiukas\OneDrive - Kaunas University of Technology\Dokumentai\OPP 1\Savarankiški darbai\Savarankiskos\obj\Debug\Savarankiskos.csproj.AssemblyReference.cache
+C:\Users\Emosiukas\OneDrive - Kaunas University of Technology\Dokumentai\OPP 1\Savarankiški darbai\Savarankiskos\obj\Debug\Savarankiskos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Emosiukas\OneDrive - Kaunas University of Technology\Dokumentai\OPP 1\Savarankiški darbai\Savarankiskos\obj\Debug\Savarankiskos.csproj.CoreCompileInputs.cache
+C:\Users\Emosiukas\OneDrive - Kaunas University of Technology\Dokumentai\OPP 1\Savarankiški darbai\Savarankiskos\obj\Debug\Savarankiskos.exe
+C:\Users\Emosiukas\OneDrive - Kaunas University of Technology\Dokumentai\OPP 1\Savarankiški darbai\Savarankiskos\obj\Debug\Savarankiskos.pdb

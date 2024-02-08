@@ -1,0 +1,57 @@
+Pradiniai duomenys:
+ Kasų kiekis 6
+ Darbo dienų kiekis 7
+ Aptarnautų klientų kiekiai
+   5   9   8   7   3   5   6
+   6   9   8   2   1   5   2
+   8   9   0   8   8   8   8
+   4   5   6   2   3   4   3
+   5   6   9   1   0   5   8
+   3   4   5   4   6   5   7
+Rezultatai:
+ Is viso aptarnauta: 220 klientu
+ Daugiausiai pirkeju aptarnavo 3 kasa
+-----------------------------------------------------------
+Pirmos savarankiskos uzduoties rezultatai:
+ Vidutiniskai viena kasa per viena diena aptarnavo: 5,24
+
+ 3 kasa nedirbo 1 diena/as 
+ 5 kasa nedirbo 1 diena/as 
+-----------------------------------------------------------
+
+ 1 kasa aptarnavo 43 klientu
+ 2 kasa aptarnavo 33 klientu
+ 3 kasa aptarnavo 49 klientu
+ 4 kasa aptarnavo 27 klientu
+ 5 kasa aptarnavo 34 klientu
+ 6 kasa aptarnavo 34 klientu
+
+ 1 diena aptarnauta 31 klientu
+ 2 diena aptarnauta 42 klientu
+ 3 diena aptarnauta 36 klientu
+ 4 diena aptarnauta 24 klientu
+ 5 diena aptarnauta 21 klientu
+ 6 diena aptarnauta 32 klientu
+ 7 diena aptarnauta 34 klientu
+
+Rezultatai per masyva:
+ 1 kasa aptarnavo 43 kielntu
+ 2 kasa aptarnavo 33 kielntu
+ 3 kasa aptarnavo 49 kielntu
+ 4 kasa aptarnavo 27 kielntu
+ 5 kasa aptarnavo 34 kielntu
+ 6 kasa aptarnavo 34 kielntu
+
+Rezultatai per masyva:
+ 1 diena aptarnauta 31 klientu
+ 2 diena aptarnauta 42 klientu
+ 3 diena aptarnauta 36 klientu
+ 4 diena aptarnauta 24 klientu
+ 5 diena aptarnauta 21 klientu
+ 6 diena aptarnauta 32 klientu
+ 7 diena aptarnauta 34 klientu
+
+-----------------------------------------------------------
+Antros savarankiskos uzduoties rezultatai:
+ Maziausiai klientu buvo 5 diena. Aptarnauti 21 prikejai/as
+-----------------------------------------------------------

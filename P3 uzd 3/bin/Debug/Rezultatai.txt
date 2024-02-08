@@ -1,0 +1,48 @@
+Nuomos firma: Lek su vejeliu
+|-----------------|------------|-----------------|------------|
+| Pavadinimas     | Kiekis     | Pagaminimo      | Kaina      | 
+|                 |            | metai           | (eurų)     | 
+|-----------------|------------|-----------------|------------|
+| ORION           |         2  |    1935         |    365,10  |
+| POLARIS         |         1  |    1988         |     87,09  |
+| INDUSTRIERAD    |        10  |    1995         |     58,10  |
+| Bauer           |        25  |    2008         |    285,58  |
+| HERREN          |        15  |    2012         |   1040,42  |
+--------------------------------------------------------------
+
+Nuomos firma: Neskubek ir busi pirmas
+|-----------------|------------|-----------------|------------|
+| Pavadinimas     | Kiekis     | Pagaminimo      | Kaina      | 
+|                 |            | metai           | (eurų)     | 
+|-----------------|------------|-----------------|------------|
+| VOLTA           |         1  |    1955         |    290,00  |
+| POLARIS         |         2  |    1990         |    100,00  |
+| BANANA          |         3  |    1995         |    145,00  |
+| INDUSTRIERAD    |        10  |    2010         |    260,00  |
+| ORION           |        15  |    2012         |   1040,42  |
+| POLARIS         |        20  |    2012         |    945,00  |
+--------------------------------------------------------------
+
+Seniausias dviratis nuomos punkte Lek su vejeliu
+Nuomos firma: Modeliu sarasas
+|-----------------|------------|-----------------|------------|
+| Pavadinimas     | Kiekis     | Pagaminimo      | Kaina      | 
+|                 |            | metai           | (eurų)     | 
+|-----------------|------------|-----------------|------------|
+| ORION           |         2  |    1935         |    365,10  |
+| POLARIS         |         1  |    1988         |     87,09  |
+| INDUSTRIERAD    |        10  |    1995         |     58,10  |
+| Bauer           |        25  |    2008         |    285,58  |
+| HERREN          |        15  |    2012         |   1040,42  |
+| VOLTA           |         1  |    1955         |    290,00  |
+| POLARIS         |         2  |    1990         |    100,00  |
+| BANANA          |         3  |    1995         |    145,00  |
+| INDUSTRIERAD    |        10  |    2010         |    260,00  |
+| ORION           |        15  |    2012         |   1040,42  |
+| POLARIS         |        20  |    2012         |    945,00  |
+--------------------------------------------------------------
+
+Brangiausias dviratis pirmame punkte kainuoja 1040,42 euru
+Brangiausias dviratis antrame punkte kainuoja 1040,42 euru
+
+Brangiausias dviratis yra abiejuose nuomos punktuose, ju kaina 1040,42

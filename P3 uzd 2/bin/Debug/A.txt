@@ -1,0 +1,4 @@
+Anupras
+Doleris; 21; 82; 0,85;
+Zlotai ; 65; 45; 0,22;
+Dinarai; 12; 65; 3,06;
